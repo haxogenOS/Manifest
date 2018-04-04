@@ -13,12 +13,12 @@
            review="android-review.googlesource.com"
 	   revision="refs/tags/android-7.1.2_r29" />  
 
-  <remote  name="coltos"
+  <remote  name="haxogenos"
            fetch=".."
            sync-c="true"
            sync-j="4"
            review="review.lineageos.org"
-           revision="refs/heads/cos7.x" />
+           revision="refs/heads/hax-n" />
 
   <default revision="refs/heads/cm-14.1"
            remote="github"
