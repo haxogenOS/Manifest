@@ -1,7 +1,7 @@
-HAXOGEN OS : Let's Get Started :)
+HAX OS : Let's Get Started :)
 =============================
 
-![Haxogen Os](https://github.com/haxogenOS/Manifest/blob/hax-n/haxoslogo.jpg)
+![HaxoOS](https://github.com/haxogenOS/Manifest/blob/hax-n/haxoslogo.jpg)
 
 
 Haxogen OS on Social Media
@@ -16,11 +16,11 @@ Haxogen OS on Social Media
 How to Build?
 -------------
 
-To initialize your local repository using the HaxogenOs trees, use a 
+To initialize your local repository using the HaxOS trees, use a 
 command like this:
 
 ```bash
-  repo init -u git://github.com/haxogenOS/Manifest.git -b hax-n
+  repo init -u git://github.com/haxogenOS/manifest.git -b hax-n
   
   Then to sync up:
 ----------------
